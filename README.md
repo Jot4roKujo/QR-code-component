@@ -1,5 +1,3 @@
-# FrontEnd Mentor Challenge
+# Frontend Mentor Challenge
 
-## QR-Code-Component
-
-## Final
+## QR-Code-Component -- Final
